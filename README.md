@@ -10,28 +10,28 @@
  - Ambil nilai element ke 2 sampai ke 4
  - Ambil element terakhir 
   
-  ![gambar1](gambar/gambarelement1.png)
+  ![gambar1](gambar/gambar1.png)
   
-  ![gambar1](gambar/gambarhasilelement2.png)
+  ![gambar1](gambar/gambar2.png)
 
 ###  UBAH ELEMENT LIST
 
   - Ubah element ke 4 dengan nilai lainya 
   - Ubah element ke 4 dengan element terakhir
   
-    ![gambar1](gambar/gambarelementlist1.png)
+    ![gambar1](gambar/gambar3.png)
     
-    ![gambar1](gambar/gambarelementlisthasil.png)
+    ![gambar1](gambar/gambar4.png)
     
 ###  TAMBAH ELEMENT LIST
     
-  - Ambil 2 bagian dari list pertama (A) dan         jadikan list kedua (B)
+  - Ambil 2 bagian dari list pertama (A) dan jadikan list kedua (B)
   - Tambah list B dengan string
   - Tambah list B dengan 3 nilai
   - Gabungan list A dengan List B
 
-    ![gambar1](gambar/gambarelementtambah.png)
-    ![gambar1](gambar/gambarelementlisttambahhasil.png)
+    ![gambar1](gambar/gambar5.png)
+    ![gambar1](gambar/gambar6.png)
 
 ## TUGAS PRAKTIKUM 5
 
@@ -45,21 +45,21 @@
 
 - Pertama tama kita akan membuat codingan atau list seperti di bawah ini
 
- ![gambar1](gambar/gambar1g.png)
+ ![gambar1](gambar/gambar7.png)
 
 - Setelah tadi kita membuat list yang di atas kemudian kita akan membuat perulangan supaya kita dapat memasukan data sebanyak banyak nya
 
- ![gambar1](gambar/gambar2g.png)
+ ![gambar1](gambar/gambar8.png)
 
 
 - Kemudian kita akan membuat program pilihan (Y/T)?, Yaitu ketika kita akan menginputkan Y,maka langsung pada saat itu akan muncul atau di minta untuk mengisi data kembali, Tetapi pada saat kita ingin menginputkan T, Maka program yang kita tadi jalankan akan berakhir dengan menampilkan hasil inputan yang tadi kita buat
 
-![gambar1](gambar/gambar3g.png)
+![gambar1](gambar/gambar9.png)
 
  - Hasil dari program yang kita buat tadi akan seperti ini
  
- ![gambar1](gambar/gambarhasillatihan5.png)
+ ![gambar1](gambar/gambar10.png)
  
 ### FLOWCHART LATIHAN 5
 
- ![gambar1](gambar/gambarflowchartlatihan5.jpeg)
+ ![gambar1](gambar/gambar11.png)
