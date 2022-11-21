@@ -2,7 +2,9 @@
 
 ## Latihan 5
 SOAL
-![gambar1](gambar/gambar1.png)
+Latihan modul 4
+
+![gambar1](gambar/fotosoal.png)
 
 ###  BUATLAH SEBUAH LIST SEBANYAK 5 ELEMENT DENGAN NILAI BEBAS
 
@@ -40,7 +42,7 @@ SOAL
 ## BUATLAH PROGRAM SEDERHANA UNTUK MENAMBAH KAN DATA KE DALAM SEBUAH LIST 
 
   - Program meminta memasukan data sebanyak banyak nya(Menggunakan perulangan)
-  - Tampilkan sebuah pilihan untuk menambah data ^(Y/T)?*,apabila jawaban T(Tidak),maka program akan menampilkan daftar datanya 
+  - Tampilkan sebuah pilihan untuk menambah data ^(Y/T)?*,apabila jawaban T(Tidak),maka program akan menampilkan datanya 
   - Nilai akhir di ambil dari 3 perhitungan komponen nilai (Tugas : 30%,UTS : 35%,UAS :35%)
 
 # LANGKAH LANGKAH YANG SAYA GUNAKAN
