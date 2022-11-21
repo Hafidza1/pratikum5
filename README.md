@@ -1,6 +1,8 @@
 # PROSES / LANGKAH - LANGKAH PRAKTIKUM 5
 
 ## Latihan 5
+SOAL
+![gambar1](gambar/gambar1.png)
 
 ###  BUATLAH SEBUAH LIST SEBANYAK 5 ELEMENT DENGAN NILAI BEBAS
 
@@ -35,7 +37,7 @@
 
 ## TUGAS PRAKTIKUM 5
 
-## BUATLAH PROGRAM SEDERHANA UNTUK MENAMBAH KAN DATA KE DALAM SEBUAH LIST DENGAN RINCIAN 
+## BUATLAH PROGRAM SEDERHANA UNTUK MENAMBAH KAN DATA KE DALAM SEBUAH LIST 
 
   - Program meminta memasukan data sebanyak banyak nya(Menggunakan perulangan)
   - Tampilkan sebuah pilihan untuk menambah data ^(Y/T)?*,apabila jawaban T(Tidak),maka program akan menampilkan daftar datanya 
